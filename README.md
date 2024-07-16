@@ -11,7 +11,6 @@
 
 <h2>🛠️ | Languages, Frameworks, and Tools </h2>
 
-<div style="display:flex; gap: 4px; height: 100%;">
 <table>
     <tr>
         <th style="font-weight: bold; padding-right: 10px; vertical-align: center;">Domain</th>
@@ -45,8 +44,6 @@
 <br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="280">
-
-</div>
 
 <h1 align="center">Hi 👋, I'm Ratnesh Tarakant Pasi</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
