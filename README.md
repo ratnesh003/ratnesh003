@@ -293,7 +293,7 @@
   </a>
   <a href="https://clerk.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clerkauth/clerkauth-original-wordmark.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clerk/clerk-original-wordmark.svg"
       alt="vuejs"
       width="40"
       height="40"
