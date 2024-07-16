@@ -1,3 +1,49 @@
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=40&pause=1000&color=42C3B4&background=9D56FF00&center=true&vCenter=true&repeat=false&random=false&width=700&lines=Hello!+Welcome+to+Ratnesh&apos;s+GitHub+page.)](https://git.io/typing-svg)  
+
+</div>
+
+<img width="100%" src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png?raw=true">
+
+## 🌍 About Me
+
+
+<h2>🛠️ | Languages, Frameworks, and Tools </h2>
+<table>
+    <tr>
+        <th style="font-weight: bold; padding-right: 10px; vertical-align: center;">Domain</th>
+        <th style="height:40px;">Technology</th>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,ts,react,nextjs,mui,angular,vue,nuxt"/></td>
+    </tr>
+    <tr>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Backend:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python,anaconda,opencv,java,php,laravel,cs,net,spring,go"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,gcp,aws,prometheus,terraform,azure,kubernetes"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,graphql,mongodb,redis,elasticsearch,"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=github,gitlab,bitbucket"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana"/></td>
+    </tr>
+</table>
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="280">
+
 <h1 align="center">Hi 👋, I'm Ratnesh Tarakant Pasi</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
