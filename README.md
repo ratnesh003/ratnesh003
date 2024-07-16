@@ -18,7 +18,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" width="100%" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,tailwind,react,vite,sass,ts,nextjs,mui,d3,threejs,angular,vue,nuxt"/></td>
+        <td><img height="40" width="100%" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,tailwind,react,vite,sass,ts,nextjs,mui,d3,threejs,angular,vue,nuxt&perline=50"/></td>
     </tr>
     <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Backend:</td>
