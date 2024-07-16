@@ -1,56 +1,67 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=40&pause=1000&color=42C3B4&background=9D56FF00&center=true&vCenter=true&repeat=false&random=false&width=700&lines=Hello!+Welcome+to+Ratnesh&apos;s+GitHub+page.)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=40&pause=3000&color=2624AE&background=9D56FF00&center=true&vCenter=true&repeat=false&random=false&width=700&lines=Hello!+Welcome+to+Ratnesh&apos;s+GitHub+page.)](https://git.io/typing-svg)  
 
 </div>
 
 <img width="100%" src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png?raw=true">
 
+<h1 align="center">Hi 👋, I'm Ratnesh Tarakant Pasi</h1>
+<h3 align="center">A passionate Software Engineer from India</h3>
+
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=ratnesh003&label=Profile%20views&color=0e75b6&style=flat" alt="ratnesh003" />
+</p>
+
+<p align="left"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=ratnesh003" alt="ratnesh003" />
+    </a>
+</p>
+
 ## 🌍 About Me
+<img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="280" height="283">
 
 
-<h2>🛠️ | Languages, Frameworks, and Tools </h2>
+<h2 align="left" style="display: block">🛠️ | Languages, Frameworks, and Tools </h2>
 
 <table width="100%">
     <tr>
         <th style="font-weight: bold; padding-right: 10px; vertical-align: center;">Domain</th>
-        <th style="height:40px;">Technologies</th>
+        <th style="height:80px;">Technologies</th>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,tailwind,react,vite,sass,ts,nextjs,mui,d3,threejs,angular,vue,nuxt&perline=50"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,tailwind,react,vite,nextjs,redux,sass,ts,mui,d3,threejs,angular,vue,nuxt&perline=50"/></td>
     </tr>
     <tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Backend:</td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,appwrite,python,flask,django,opencv,java,php,laravel,prisma"/></td>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Backend</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=npm,nodejs,express,appwrite,prisma,sequelize,python,flask,django,opencv,java,php,laravel"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql,firebase,graphql,mongodb,redis,planetscale"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Machine Learning</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=py,pytorch,sklearn,tensorflow,opencv,colab"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=matlab,arduino"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,gcp,aws,prometheus,terraform,azure,kubernetes"/></td>
     </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,graphql,mongodb,redis,plantscale,"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=matlab,ardiuno"/></td>
-    </tr>
 </table>
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="280">
 
-<h1 align="center">Hi 👋, I'm Ratnesh Tarakant Pasi</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ratnesh003&label=Profile%20views&color=0e75b6&style=flat" alt="ratnesh003" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ratnesh003" alt="ratnesh003" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
