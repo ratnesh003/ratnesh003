@@ -14,11 +14,11 @@
 <table width="100%">
     <tr>
         <th style="font-weight: bold; padding-right: 10px; vertical-align: center;">Domain</th>
-        <th style="height:40px;">Technology</th>
+        <th style="height:40px;">Technologies</th>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" width="100%" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,tailwind,react,vite,sass,ts,nextjs,mui,d3,threejs,angular,vue,nuxt&perline=50"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,tailwind,react,vite,sass,ts,nextjs,mui,d3,threejs,angular,vue,nuxt&perline=50"/></td>
     </tr>
     <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Backend:</td>
@@ -30,15 +30,15 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,graphql,mongodb,redis,elasticsearch,"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,graphql,mongodb,redis,plantscale,"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=github,gitlab,bitbucket"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=matlab,ardiuno"/></td>
     </tr>
 </table>
 <br>
