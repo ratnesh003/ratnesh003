@@ -10,6 +10,8 @@
 
 
 <h2>🛠️ | Languages, Frameworks, and Tools </h2>
+
+<div style="display:flex; gap: 4px; height: 100%;">
 <table>
     <tr>
         <th style="font-weight: bold; padding-right: 10px; vertical-align: center;">Domain</th>
@@ -17,11 +19,11 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,ts,react,nextjs,mui,angular,vue,nuxt"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,tailwind,react,vite,sass,ts,nextjs,mui,d3,threejs,angular,vue,nuxt"/></td>
     </tr>
     <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Backend:</td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python,anaconda,opencv,java,php,laravel,cs,net,spring,go"/></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,appwrite,python,flask,django,opencv,java,php,laravel,prisma"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
@@ -43,6 +45,8 @@
 <br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="280">
+
+</div>
 
 <h1 align="center">Hi 👋, I'm Ratnesh Tarakant Pasi</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
