@@ -11,7 +11,7 @@
 
 <h2>🛠️ | Languages, Frameworks, and Tools </h2>
 
-<table>
+<table width="100%">
     <tr>
         <th style="font-weight: bold; padding-right: 10px; vertical-align: center;">Domain</th>
         <th style="height:40px;">Technology</th>
