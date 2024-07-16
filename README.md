@@ -18,3 +18,10 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=ratnesh003&theme=react&hide_border=false&include_all_commits=true&count_private=true" ></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ratnesh003&theme=react&hide_border=false"></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratnesh003&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></p>
+
+<h2>Activity Graph</h2>
+
+![Aman's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ratnesh003&custom_title=Ratnesh's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
