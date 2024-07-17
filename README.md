@@ -119,20 +119,34 @@ These are the some of my favourite and planned projects listed down here. Some o
   <div>
     <img align="right" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="140" />
     <img align="right" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="140" />
-    These are the some of my favourite and planned projects listed down here. Some of them are live too you might also love them. Since I have been using two tech stack most of them are based on NextJS tech stack due to benifits like easy hosting on vercel and ease of maintaining serverless architecture. For all the projects you can find the code on my GitHub account. Along with theme Readme file is there about how to run them on your machine.
+    
+These are the some of my favourite and planned projects listed down here. Some of them are `live` too you might also love them. Since I have been using two tech stack most of them are based on NextJS tech stack due to benifits like easy hosting on vercel and ease of maintaining serverless architecture. For all the projects you can find the code on my GitHub account. Along with theme Readme file is there about how to run them on your machine.
   </div>
-    <br />   
+
+#### ✅ Developed Projects
+  
   <div>
     <img align="right" src="https://media4.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="160" />
     <img align="right" src="https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="160" />  
     
-* 1st project the most favourite one My 📈 [**Protfolio**](https://ratnesh-portfolio-webapp.vercel.app/) website build on **Next.JS 14** and integerated with **Prismic** (a CMS). Its UI is developed using **Tailwind CSS, GSAP** and **ThreeJS**. Not only its UI is good due to animations and 3D elements, the CMS adds the functionality of updating a content in much more efficient and faster way including the resturcturing of the site without pinning the code. This make it to much effective as a protfolio site.[repo]()
-     
+* The most favourite one My 📈 [**Protfolio**](https://ratnesh-portfolio-webapp.vercel.app/) website build on **Next.JS 14** and integerated with **Prismic** (a CMS). Its UI is developed using **Tailwind CSS, GSAP** and **ThreeJS**. [repo](https://github.com/ratnesh003/ratnesh-portfolio-webapp)
+
+* ✨ [**Pixify**](https://pixify-ai-image-saas.vercel.app/) an AI SaaS app is build using **Next.JS 14, Mongoose** and **zod**. The 😶‍🌫️ **Cloudinary API** is used for the storage and processing of the images behind the scene. [repo](https://github.com/ratnesh003/pixify-ai-image-saas)
+
+* 📺 [**Pixel Plex**](https://pixel-plex-next-js14-app.vercel.app/) a live streaming platform is build on **Next.JS 14, Prisma** and **zustand**. The 📡 **LiveKit API** is used to integerate the functinality of the streamming on the site.[repo](https://github.com/ratnesh003/pixel-plex-next.js14-app)
+
   </div>
-      <br />   
+
+#### ⏳ Future Projects
+
   <div>
-    <img src="https://media1.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.webp" width="140" />
-    <img src="https://media0.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp" width="140" />
+    <img align="right" src="https://media0.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp" width="140" />
+    <img align="right" src="https://media1.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.webp" width="140" />
+
+* <img height="18" src="https://skillicons.dev/icons?i=stackoverflow&theme=light" /> Stack Overflow clone try to develope using Next.JS 14 and Mongoose. Main aim to develope a question and answer system along with many other small features.
+
+* <img height="18" src="https://skillicons.dev/icons?i=twitter&theme=light" /> Thread clone try to develope using Next.JS 14 and Mongoose. Main aim to develope a system using clerk auth to pass the role based access to the users with in community. Notification feature for threads activity section.
+
   </div>
 
 
