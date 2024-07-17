@@ -160,7 +160,7 @@ These are the some of my favourite and planned projects listed down here. Some o
 <div align="center">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ratnesh003&theme=blue_navy&hide_border=true&card_width=830&card_height=140)<br/>
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ratnesh003&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=true&card_width=498" /><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratnesh003&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=true&layout=compact&card_width=332" />
+<img height="181" src="https://github-readme-stats.vercel.app/api?username=ratnesh003&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=true&card_width=498" /><img height="181" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratnesh003&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=true&layout=compact&card_width=332" />
 <img height="188" src="https://github-contributor-stats.vercel.app/api?username=ratnesh003&limit=5&theme=blue_navy&combine_all_yearly_contributions=true"/><img height="186" src="https://roadmap.sh/card/wide/64a6eac01dadb37b72b3d65b?variant=dark&roadmaps=full-stack%2Creact%2Cjavascript%2Ctypescript" alt="roadmap.sh"/>
 <img width="830" src="https://github-profile-trophy.vercel.app/?username=ratnesh003&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
 
