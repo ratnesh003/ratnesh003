@@ -39,21 +39,21 @@
 <!-- -------------------------------------------- EDUCATION SECTION -------------------------------------------- -->
 
 ## 🎓 Education
-<img align="left" width="210" height="300" margin-left="20" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGp6em5zZThtbzdmbTJ0aGVtb3Z2dmMzZXc3cmpvNnViZ2Eyc3l5eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUPGcM9CazM9H5KrEA/giphy.webp" />
+<img align="left" width="280" height="345" margin-left="20" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGp6em5zZThtbzdmbTJ0aGVtb3Z2dmMzZXc3cmpvNnViZ2Eyc3l5eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUPGcM9CazM9H5KrEA/giphy.webp" />
 
 <div style="margin-left: 80px; padding-left: 80px">
 
-This is my complete 20 years educational journey so far from being tech enthusiast to Software Engineer.
+This is my complete **20 years** educational journey so far from being tech enthusiast to **Software Engineer**. Fun fact that this all started with the aim of building a computer entirely on my own.
 
-*  **Bachelor of Technoly in Computer Science and Engineering**   
+*  🧑🏻‍🎓 **Bachelor of Technoly in Computer Science and Engineering**   
   Indian Institute of Information Technology, Surat.  
   Jul 2021 - Mar 2025&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**C.G.P.A. 7.53/10**
 
-*  **Higher Secondary Certifcate in Bifocal Computer Science**  
+*  👨🏼‍💻 **Higher Secondary Certifcate in Bifocal Computer Science**  
   2 years course at A.A.V.P Jr. College, Mumbai.   
   Jul 2019 - Mar 2021&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**Percentage 89/100**
 
-*  **Secondary State Board Certificate**    
+*  🏫 **Secondary State Board Certificate**    
   Greater Mumbai Educationl Society, Mumbai.   
   Jul 2018 - Mar 2019&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**Percentage 81.2/100**  
 
@@ -67,10 +67,6 @@ This is my complete 20 years educational journey so far from being tech enthusia
 <h2 align="left">🛠️ Languages, Frameworks, and Tools </h2>
 <table>
     <tr>
-        <th style="font-weight: bold; padding-right: 10px; vertical-align: center;">Domain</th>
-        <th style="height:80px;">Technologies</th>
-    </tr>
-    <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend</td>
         <td><img height="86.5" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,tailwind,react,vite,nextjs,redux,sass,ts,mui,d3,threejs,angular,vue,nuxt&perline=11"/></td>
     </tr>
@@ -81,6 +77,10 @@ This is my complete 20 years educational journey so far from being tech enthusia
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql,firebase,graphql,mongodb,redis,planetscale"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=c,cpp,js,ts,py,java,php,bash"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Machine Learning</td>
@@ -99,7 +99,41 @@ This is my complete 20 years educational journey so far from being tech enthusia
         <td style="" height=30>Working on it soon...</td>
     </tr>
 </table>
-<br>
+
+<br/>
+<br/>
+
+## 📽️ Projects
+
+<!-- <img align="right" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="140">
+<img align="right" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="140">
+
+These are the some of my favourite and planned projects listed down here. Some of them are live too you might also love them. Since I have been using two tech stack most of them are based on NextJS tech stack due to benifits like easy hosting on vercel and ease of maintaining serverless architecture.
+
+<img align="right" src="https://media4.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="150">
+<img align="right" src="https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="150">
+
+<img align="right" src="https://media1.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.webp" width="140">
+<img align="right" src="https://media0.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp" width="140"> -->
+
+  <div>
+    <img align="right" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="140" />
+    <img align="right" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="140" />
+    These are the some of my favourite and planned projects listed down here. Some of them are live too you might also love them. Since I have been using two tech stack most of them are based on NextJS tech stack due to benifits like easy hosting on vercel and ease of maintaining serverless architecture. For all the projects you can find the code on my GitHub account. Along with theme Readme file is there about how to run them on your machine.
+  </div>
+    <br />   
+  <div>
+    <img align="right" src="https://media4.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="160" />
+    <img align="right" src="https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="160" />  
+    
+* 1st project the most favourite one My 📈 [**Protfolio**](https://ratnesh-portfolio-webapp.vercel.app/) website build on **Next.JS 14** and integerated with **Prismic** (a CMS). Its UI is developed using **Tailwind CSS, GSAP** and **ThreeJS**. Not only its UI is good due to animations and 3D elements, the CMS adds the functionality of updating a content in much more efficient and faster way including the resturcturing of the site without pinning the code. This make it to much effective as a protfolio site.[repo]()
+     
+  </div>
+      <br />   
+  <div>
+    <img src="https://media1.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.webp" width="140" />
+    <img src="https://media0.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp" width="140" />
+  </div>
 
 
 # Still Building the profile page...
@@ -118,10 +152,13 @@ This is my complete 20 years educational journey so far from being tech enthusia
     <a href="https://linkedin.com/in/ratneshpasi03">
         <img height="40" src="https://skillicons.dev/icons?i=linkedin"/>
     </a>
-    <a href="https://linkedin.com/in/ratneshpasi03">
+    <a href="https://www.instagram.com/ratnesh95796/">
         <img height="40" src="https://skillicons.dev/icons?i=instagram"/>
     </a>
     <a href="mailto:ratneshpasi03@gmail.com">
         <img height="40" src="https://skillicons.dev/icons?i=gmail"/>
     </a>
 </p>
+
+
+<!--     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3p6MHVlbDlvcTZpa2k2MXBwNnQyYjVjenVvNDhjcjJsYWNtems4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XzhRnQsJfm6X7NJtTG/giphy.webp" width="105"> -->
