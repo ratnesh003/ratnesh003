@@ -19,7 +19,7 @@
 <!-- -------------------------------------------- ABOUT ME SECTION -------------------------------------------- -->
 
 ## 🌍 About Me
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="280" height="283">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="330" height="333">
 
 #### I am Software Developer From Mumbai, India. I am currently Final year student from Indian Institute of Information Technology Surat at Computer Science and Engineering branch. I am FullStack Web developer seeking internship and looking forward to contribute to real world products build along with MERN Stack or NextJS Stack.
 
@@ -41,7 +41,7 @@
 <!-- -------------------------------------------- EDUCATION SECTION -------------------------------------------- -->
 
 ## 🎓 Education
-<img align="left" width="280" height="345" margin-left="20" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGp6em5zZThtbzdmbTJ0aGVtb3Z2dmMzZXc3cmpvNnViZ2Eyc3l5eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUPGcM9CazM9H5KrEA/giphy.webp" />
+<img align="left" width="320" height="415" margin="20" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGp6em5zZThtbzdmbTJ0aGVtb3Z2dmMzZXc3cmpvNnViZ2Eyc3l5eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUPGcM9CazM9H5KrEA/giphy.webp" />
 
 <div style="margin-left: 80px; padding-left: 80px">
 
@@ -154,6 +154,10 @@ These are the some of my favourite and planned projects listed down here. Some o
 
   </div>
 
+<br />
+<br />
+
+<!-- -------------------------------------------- GITHUB STATS SECTION -------------------------------------------- -->
 
 ## <img height="28" src="https://skillicons.dev/icons?i=github" /> GitHub Stats
 
@@ -166,6 +170,11 @@ These are the some of my favourite and planned projects listed down here. Some o
 <img width="830" src="https://github-profile-trophy.vercel.app/?username=ratnesh003&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
 
 </div>
+
+<br />
+<br />
+
+<!-- -------------------------------------------- CONTACT SECTION -------------------------------------------- -->
 
 ## 🤝 Connect with me
 <p align="left">
