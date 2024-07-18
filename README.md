@@ -35,13 +35,11 @@
 
 <br/>
 <br/>
-<br/>
-
 
 <!-- -------------------------------------------- EDUCATION SECTION -------------------------------------------- -->
 
 ## 🎓 Education
-<img align="left" width="320" height="415" margin="20" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGp6em5zZThtbzdmbTJ0aGVtb3Z2dmMzZXc3cmpvNnViZ2Eyc3l5eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUPGcM9CazM9H5KrEA/giphy.webp" />
+<img align="left" width="300" height="425" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGp6em5zZThtbzdmbTJ0aGVtb3Z2dmMzZXc3cmpvNnViZ2Eyc3l5eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUPGcM9CazM9H5KrEA/giphy.webp" />
 
 <div style="margin-left: 80px; padding-left: 80px">
 
@@ -61,6 +59,9 @@ This is my complete **20 years** educational journey so far from being tech enth
 
 </div>
 
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 
