@@ -8,7 +8,7 @@
 
 <img width="100%" src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png?raw=true">
 
-<h1 align="center">Hi <img height="30" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" />, I'm Ratnesh Tarakant Pasi</h1>
+<h1 align="center">Hi <img height="30" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" />, I'm Ratnesh Tarakant Pasi</h1>
 <h3 align="center">A 21 year old passionate Software Engineer from India.</h3>
 
 <br/>
