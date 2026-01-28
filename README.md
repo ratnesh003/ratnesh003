@@ -167,7 +167,7 @@ These are the some of my favourite and planned projects listed down here. Some o
 <img height="186" src="https://github-contributor-stats.vercel.app/api?username=ratnesh003&limit=5&theme=blue_navy&combine_all_yearly_contributions=true"/><img height="184" src="https://roadmap.sh/card/wide/64a6eac01dadb37b72b3d65b?variant=dark&roadmaps=full-stack%2Creact%2Cjavascript%2Ctypescript" alt="roadmap.sh"/>
 <img width="860" alt="snake eating my contributions" src="https://raw.githubusercontent.com/ratnesh003/ratnesh003/output/github-contribution-grid-snake.svg" />
 <img width="830" src="https://github-profile-trophy.vercel.app/?username=ratnesh003&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ratnesh003&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 <br />
